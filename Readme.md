@@ -1,6 +1,7 @@
 # LMSFF
 
-#### Dataset
+
+## Dataset
    Download the CK+ dataset and RAVDESS and store them in data/dataset/*
     
     dataset/
@@ -19,6 +20,9 @@
                    ......
                 - Actor_23
                 - Actor_24
+## Overview
+### Overall Architecture for LMSFF
+
 ## Get started
 #### 1.the first step is clone this repo
     https://github.com/wjm666666/LMSSF.git
