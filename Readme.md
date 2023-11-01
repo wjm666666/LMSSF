@@ -23,9 +23,7 @@
 ## Overview
 ### Overall Architecture for LMSFF
 <img width="880" alt="4424031a99009a43f6d2b60b8b9405b" src="https://github.com/wjm666666/LMSSF/assets/60913990/f3ecbe7b-1983-4af1-ae5e-5fda58cbdbee">
-Use three feature clippers on the left to separate common and unique features
-between the two. The three common features are cropped again to distinguish trimodal common features and bimodal
-common features. Three-modal one-dimensional features are not processed. On the right side, the bimodal features
+Use three feature clippers on the left to separate common and unique features between the two. The three common features are cropped again to distinguish trimodal common features and bimodal common features. Three-modal one-dimensional features are not processed. On the right side, the bimodal features
 are fused with the unique features of another modality that do not intersect and are expressed in a two-dimensional
 form, and the unique features of the three modalities are fused and expressed in a three-dimensional form. Below, the
 three dimensional features are fed into the feature splicer for step-by-step calculation. In order to reduce the amount
