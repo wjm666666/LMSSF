@@ -22,6 +22,7 @@
                 - Actor_24
 ## Overview
 ### Overall Architecture for LMSFF
+<img width="525" alt="4424031a99009a43f6d2b60b8b9405b" src="https://github.com/wjm666666/LMSSF/assets/60913990/f3ecbe7b-1983-4af1-ae5e-5fda58cbdbee">
 
 ## Get started
 #### 1.the first step is clone this repo
