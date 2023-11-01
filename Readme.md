@@ -2,8 +2,8 @@
 
 #### Dataset
    Download the CK+ dataset and RAVDESS and store them in data/dataset/*
+    
     dataset/
-            
             CK/
                 - anger
                 - contempt
