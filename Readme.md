@@ -1,7 +1,9 @@
 # LMSFF
 
 ## Dataset
-Download the CK+ dataset and RAVDESS and store them in data/dataset/*dataset/CK/
+Download the CK+ dataset and RAVDESS and store them in data/dataset/*
+dataset/
+        CK/
                 - anger
                 - contempt
                 - disgust
@@ -10,7 +12,7 @@ Download the CK+ dataset and RAVDESS and store them in data/dataset/*dataset/CK/
                 - sadness
                 - suiprise
     
-RAVDESS/
+            RAVDESS/
                 - Actor_01
                 - Actor_02
                    ......
