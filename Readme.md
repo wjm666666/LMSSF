@@ -18,7 +18,7 @@
                 - Actor_24
 # get started
 ### 1.the first step is clone this repo
-    the first step is clone this repo
+    https://github.com/wjm666666/LMSSF.git
 ####
     pip install -r requirements.txt
 ####
