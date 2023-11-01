@@ -1,5 +1,5 @@
-LMSFF
-
+# LMSFF
+ PyTorch implementation of paper"Emotion recognition: Low-rank Multimodal Shear and Splicing Fusion"
 
 ## Dataset
    Download the CK+ dataset and RAVDESS and store them in data/dataset/*
