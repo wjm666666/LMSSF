@@ -17,6 +17,8 @@
                 - Actor_23
                 - Actor_24
 # get started
+### 1.the first step is clone this repo
+    the first step is clone this repo
 ####
     pip install -r requirements.txt
 ####
