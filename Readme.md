@@ -19,9 +19,9 @@
 # get started
 ### 1.the first step is clone this repo
     https://github.com/wjm666666/LMSSF.git
-####
+#### 2.Install all the required libraries for the experiment.
     pip install -r requirements.txt
-####
+#### 3.
     python3 data_process.py
 ####
     python3 save_value.py
